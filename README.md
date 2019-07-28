@@ -7,16 +7,17 @@ Il progetto è stato eseguito da un gruppo di tre studenti: Giovanni Ficarra, Lo
 Implementazione in Java di un simulatore di accoppiamento e crescita di una popolazione. Il sistema si basa sugli studi di R. Dawkins mostrati nella sua opera The selfish gene.
 
 Il sistema simula la crescita di una popolazione composta da quattro tipologie di individui, due per ogni sesso:
-1. Morigerati
-2. Avventurieri
-3. Prudenti
-4. Spregiudicate
+1. Maschi morigerati
+2. Maschi avventurieri
+3. Femmine Prudenti
+4. Femmine Spregiudicate
 
 Si fanno accoppiare due individui di sesso differente che generano a loro volta una coppia di figli della stessa
 tipologia dei genitori.
 
-Ad ogni persona viene associato un punteggio, che può variare ad ogni accoppiamento e determina se l’individuo può
-continuare a vivere nel sistema.
+Ad ogni persona viene associato un punteggio che determina la capacità dell’individuo di continuare a vivere nell'ambiente. Il punteggio può variare ad ogni accoppiamento.
+
+Il simulatore tenta di raggiungere, nel tempo prefissato, la stabilità della popolazione secondo Dawkins; si avrà la maggioranza di mashi morigerati e femmine prudenti.
 
 ![Uno screenshot del simulatore](https://88y32g.dm2302.livefilestore.com/y4mLErOUNRBxSXR6qKxmO1MaRsTGNQMNuaS23O60EvyGaOtdec0e_D1_K-oSoGQvPxsWGQvjGY-JCqimIAChJ5yYZLgmBW7biTqCpRcj2SotpUQz13Br47eydYen6i6rmZqZQWSZk6YoBvlsUFAwdYLu526zpgsKG-Rap9Ux2zTt2PmfgVhs6nCpDAN4yHQ1favpNkD5Wg3UgCtOh342iCSqA/Simulazione%204.PNG?psid=1)
 _Screenshot del simulatore in esecuzione._
