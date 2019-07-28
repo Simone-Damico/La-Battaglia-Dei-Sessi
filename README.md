@@ -15,7 +15,7 @@ Il sistema simula la crescita di una popolazione composta da quattro tipologie d
 Si fanno accoppiare due individui di sesso differente che generano a loro volta una coppia di figli della stessa
 tipologia dei genitori.
 
-Ad ogni persona viene associato un punteggio che determina la capacità dell’individuo di continuare a vivere nell'ambiente. Il punteggio può variare ad ogni accoppiamento.
+Ad ogni persona viene associato un punteggio che determina la capacità dell’individuo di continuare a vivere nello scenario. Il punteggio può variare ad ogni accoppiamento secondo dei parametri definiti in **The selfish gene** o casuali.
 
 Il simulatore tenta di raggiungere, nel tempo prefissato, la stabilità della popolazione secondo Dawkins; si avrà la maggioranza di mashi morigerati e femmine prudenti.
 
