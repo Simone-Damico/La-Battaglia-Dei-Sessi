@@ -20,6 +20,7 @@ Ad ogni persona viene associato un punteggio che determina la capacità dell’i
 Il simulatore tenta di raggiungere, nel tempo prefissato, la stabilità della popolazione secondo Dawkins; si avrà la maggioranza di mashi morigerati e femmine prudenti.
 
 ![Uno screenshot del simulatore](https://88y32g.dm2302.livefilestore.com/y4mLErOUNRBxSXR6qKxmO1MaRsTGNQMNuaS23O60EvyGaOtdec0e_D1_K-oSoGQvPxsWGQvjGY-JCqimIAChJ5yYZLgmBW7biTqCpRcj2SotpUQz13Br47eydYen6i6rmZqZQWSZk6YoBvlsUFAwdYLu526zpgsKG-Rap9Ux2zTt2PmfgVhs6nCpDAN4yHQ1favpNkD5Wg3UgCtOh342iCSqA/Simulazione%204.PNG?psid=1)
+
 _Screenshot del simulatore in esecuzione._
 
 ---
