@@ -15,18 +15,10 @@ Il sistema simula la crescita di una popolazione composta da quattro tipologie d
 Si fanno accoppiare due individui di sesso differente che generano a loro volta una coppia di figli della stessa
 tipologia dei genitori.
 
-Ad ogni persona viene associato un punteggio che determina la capacità dell’individuo di continuare a vivere nello scenario. Il punteggio può variare ad ogni accoppiamento secondo dei parametri definiti in **The selfish gene** o casuali.
+Ad ogni persona viene associato un punteggio che determina la capacità dell’individuo di continuare a vivere nello scenario. Il punteggio può variare ad ogni accoppiamento secondo dei parametri definiti in *The selfish gene* o casuali.
 
 Il simulatore tenta di raggiungere, nel tempo prefissato, la stabilità della popolazione secondo Dawkins; si avrà la maggioranza di mashi morigerati e femmine prudenti.
 
 ![Uno screenshot del simulatore](https://88y32g.dm2302.livefilestore.com/y4mLErOUNRBxSXR6qKxmO1MaRsTGNQMNuaS23O60EvyGaOtdec0e_D1_K-oSoGQvPxsWGQvjGY-JCqimIAChJ5yYZLgmBW7biTqCpRcj2SotpUQz13Br47eydYen6i6rmZqZQWSZk6YoBvlsUFAwdYLu526zpgsKG-Rap9Ux2zTt2PmfgVhs6nCpDAN4yHQ1favpNkD5Wg3UgCtOh342iCSqA/Simulazione%204.PNG?psid=1)
 
 _Screenshot del simulatore in esecuzione._
-
----
-
-[Qui](https://preview.c9users.io/giovannificarra95/lbds/doc/index.html) la documentazione del progetto.
-
-[Qui](https://preview.c9users.io/giovannificarra95/lbds/Relazione.pdf) la relazione completa del progetto.
-
-_Autori: Giovanni Ficarra, Simone D'Amico, Lorenzo Ceccomancini._
