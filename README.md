@@ -4,7 +4,7 @@ Progetto per il corso di Metodologie di Progrmmazione tenuto dal prof.re Pietro 
 
 Il progetto è stato eseguito da un gruppo di tre studenti: Giovanni Ficarra, Lorenzo Ceccomancini, Simone D'Amico.
 
-Implementazione in Java di un simulatore di accoppiamento e crescita di una popolazione. Il sistema si basa sugli studi di R. Dawkins mostrati nella sua opera The selfish gene.
+Implementazione in Java di un simulatore di accoppiamento e crescita di una popolazione. Il sistema si basa sugli studi di R. Dawkins mostrati nella sua opera *The selfish gene*.
 
 Il sistema simula la crescita di una popolazione composta da quattro tipologie di individui, due per ogni sesso:
 1. Maschi morigerati
